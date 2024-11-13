@@ -1,1 +1,6 @@
 # Recipes-Website
+#November 11th, 2024
+# The Odin Project (Recipes) 
+#Today I will be establishing a basic recipies page using ONLY HTML. Establishing a index.html file within a directory(FILE) and adding a h1 heading.
+#I decided to copy the page I obtained the recipe information from. So after every "step" of the recipe there is a picture giving a represenation of what was done in that step. Each image has an alternative text to go with it. I also decided to put all the steps in an ordered list along with the picture for readability purposes. As my stopping point today I also went ahead and started a "Spaghetti" and "Bolognese" pages(never heard of Bolognese before like 45 minutes ago). Next session is essentially following the process I did today. 
+# As I got into coding and "<img src" I realized that a little more planning in the beginning would have helped a lot with my relative links. Keeping my recipes in a recipe file and my images for EACH dish in its respected file. I did some of it on purpose to try and understand linking photos in other directories, but it ended up getting a little messy. Solution: relocate images into respected files then changing my "<img src" coding to refer to correct location!
